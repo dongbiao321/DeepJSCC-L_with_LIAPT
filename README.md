@@ -1,0 +1,10 @@
+@ARTICLE{10994801,
+  author={Dong, Biao and Cao, Bin and Zhang, Qinyu},
+  journal={IEEE Communications Letters}, 
+  title={Lightweight Semantic-Aware Communication with Packet Transmission}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Kernel;Convolution;Discrete wavelet transforms;Wavelet analysis;Complexity theory;Tensors;Standards;Wireless sensor networks;Translation;Decoding;Joint source channel coding;semantic communication;deep learning;lightweight coding;importance awareness},
+  doi={10.1109/LCOMM.2025.3568427}}
